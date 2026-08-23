@@ -1,2 +1,1 @@
-# startseite-team-moeller.github.io
-Startseite / Links von Thomas
+Dieses Repository stellt die subdomain **startseite.team-moeller.de** bereit.
